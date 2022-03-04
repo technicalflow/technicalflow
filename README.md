@@ -2,7 +2,7 @@
 <p align="left">
 - 😎  I’m interested in Azure Cloud and Cloud Migrations <br>
 - 🌱  I’m currently learning about Azure, Docker, IaaC, RedHat and Powershell <br>
-- 👨‍🚀  Passions: I love to travel, play in my Homelab and to bike after hours <br>
+- 👨‍🚀  Passions: I love to travel, play in my Homelab and love to ride a bike after hours <br>
 - 📫  Reach me at <a href="https://mysmall.cloud/">mysmall.cloud</a> <br>
 </p>
 <!---
