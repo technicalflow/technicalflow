@@ -4,6 +4,7 @@
 - 🌱  I’m currently learning about Azure, Docker, IaaC, RedHat and Powershell <br>
 - 👨‍🚀  Passions: I love to travel, play in my Homelab and love to ride a bike after hours <br>
 - 📫  Reach me at <a href="https://mysmall.cloud/">mysmall.cloud</a> <br>
+- ✌️ All of my public code here is free to use <br>
 </p>
 <!---
 technicalflow/technicalflow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
