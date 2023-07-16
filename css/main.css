@@ -322,7 +322,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 14pt;
+				font-size: 13pt;
 			}
 /* Mobile */
 	@media screen and (max-width: 736px) {
@@ -330,7 +330,7 @@
 		/* Basic */
 
 			body {
-				min-width: 120px;
+				min-width: 320px;
 			}
 
 			body, input, select, textarea {
