@@ -1,9 +1,7 @@
 /* @import url("https://fonts.googleapis.com/css?family=Lexend:300,900"); */
 @import url("fontawesome-all.min.css");
 
-
 /* Icon */
-
 	.icon {
 		text-decoration: none;
 		position: relative;
@@ -35,7 +33,6 @@
 		}
 
 /* Main */
-
 	#main {
 		height: 100%;
 		left: 0;
@@ -312,7 +309,6 @@
  
 
 /* Wide */
-
 	@media screen and (max-width: 1680px) {
 
 		/* Basic */
@@ -321,7 +317,6 @@
 				font-size: 14pt;
 			}
 /* Normal */
-
 	@media screen and (max-width: 1280px) {
 
 		/* Basic */
@@ -330,7 +325,6 @@
 				font-size: 14pt;
 			}
 /* Mobile */
-
 	@media screen and (max-width: 736px) {
 
 		/* Basic */
@@ -344,7 +338,6 @@
 			}
 
 	/* Header */
-
 		#header h1 {
 			font-size: 1.5em;
 		}
@@ -367,9 +360,9 @@
 	}
 
 /* Mobile (Portrait) */
-	@media screen and (max-width: 480px) {
+	/* @media screen and (max-width: 480px) {
 		#header nav {
 			padding: 0 1em;
 			} 
-		}
+		} */
 	}}
