@@ -3,7 +3,7 @@
 - 😎  I’m interested in Azure Cloud and Cloud Migrations <br>
 - 🌱  I’m currently learning about Azure, Docker, IaaC, RedHat and Powershell <br>
 - 👨‍🚀  Passions: I love to travel, play in my Homelab and love to ride a bike after hours <br>
-- 📫  Reach me at <a href="https://mysmall.cloud/">mysmall.cloud</a> <br>
+- 📫  Reach me at <a href="https://marekserba.com">marekserba.com</a> <br>
 - ✌️ All of my public code here is free to use <br>
 </p>
 <!---
